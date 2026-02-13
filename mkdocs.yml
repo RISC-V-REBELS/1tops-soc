@@ -2,5 +2,12 @@ site_name: 1-TOPS RV32IMC SoC
 theme:
   name: material
 nav:
-  - Documentation: index.md
+  - Overview: index.md
+  - Architecture: architecture.md
+  - Memory Map: memory_map.md
+  - Core: core.md
+  - Interrupt System: interrupts.md
+  - Peripherals: peripherals.md
+  - RTOS Integration: rtos.md
+  - Tapeout Plan: tapeout.md
 
