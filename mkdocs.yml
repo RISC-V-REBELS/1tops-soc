@@ -1,0 +1,6 @@
+site_name: 1-TOPS RV32IMC SoC
+theme:
+  name: material
+nav:
+  - Documentation: index.md
+
